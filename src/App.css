@@ -1,0 +1,19 @@
+/* Layout principal da aplicação */
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 2rem;
+  background: #262329;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .App {
+    padding: 1rem;
+  }
+}
