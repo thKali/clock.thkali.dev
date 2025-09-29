@@ -1,4 +1,4 @@
-# [clock.thkali.dev](clock.thkali.dev)
+# [clock.thkali.dev](https://clock.thkali.dev)
 just an clock website with clock functions
 
 i gonna implement clock app functions like pomodoro and timer
